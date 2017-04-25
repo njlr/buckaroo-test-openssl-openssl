@@ -1,0 +1,7 @@
+{
+  "name": "buckaroo-test-openssl-openssl",
+  "dependencies": {
+    "google/gtest": "1.8.0",
+    "openssl/openssl": "1.0.211"
+  }
+}
