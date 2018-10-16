@@ -1,2 +1,11 @@
 [cxx]
-  gtest_dep = google-gtest//:gtest
+  should_remap_host_platform = true
+  gtest_dep = google.gtest//:gtest
+
+[repositories]
+  google.gtest = buckaroo/official/google/gtest
+  openssl.openssl = buckaroo/official/openssl/openssl
+
+[project]
+  ignore = .git
+

@@ -36,3 +36,6 @@
 # Buckaroo
 /buckaroo/
 BUCKAROO_DEPS
+
+# Lock-file disabled for integration test
+buckaroo.lock.json

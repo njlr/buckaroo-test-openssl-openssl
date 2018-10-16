@@ -2,5 +2,5 @@
 
 ```
 buckaroo install
-buck test
+buck test :test1
 ```
